@@ -1,5 +1,5 @@
 # Duration of Child Home Care Allowance Period and School Success: Differences by Parental Education Level and Ethnic Origins
-A code repository for the statistical analyses
+## A code repository for the statistical analyses
 
 Markus Laaninen
 
